@@ -1,0 +1,1 @@
+$env:DATABASE_URL="postgresql://postgres:Codevector2026@db.vrurmnjohlxunfrnuzfu.supabase.co:5432/postgres"

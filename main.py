@@ -86,6 +86,4 @@ def get_products(
 @app.get("/")
 def root():
     return {"message": "CodeVector Products API is running!"}
-git add .
-git commit -m "Add get product by id endpoint"
-git push
+
